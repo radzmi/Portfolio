@@ -17,15 +17,27 @@ Motivated MSc. in Data Science & Analytics candidate seeking to contribute to a 
 ## 📂 Projects
 
 
-<img align="left" width="250" height="150" src="images/imgi_127_amazon-logo.jpg"> **[Optimizing Amazon Efficiency Using Data Analysis](https://github.com/radzmi/Optimizing-Amazon-Efficiency-Using-Data-Analytics)**
+<img align="left" width="200" height="100" src="images/imgi_127_amazon-logo.jpg"> **[Optimizing Amazon Efficiency Using Data Analysis](https://github.com/radzmi/Optimizing-Amazon-Efficiency-Using-Data-Analytics)**
 
 The purpose of this analysis is to tackle 3 key components in Amazon that is Shipping Efficiency, Customer Retention and Loyalty, and Predictive Analytics.
+
 
 #
 
-<img align="left" width="250" height="150" src="images/imgi_127_amazon-logo.jpg"> **[Optimizing Amazon Efficiency Using Data Analysis](https://github.com/radzmi/Optimizing-Amazon-Efficiency-Using-Data-Analytics)**
 
-The purpose of this analysis is to tackle 3 key components in Amazon that is Shipping Efficiency, Customer Retention and Loyalty, and Predictive Analytics.
+<img align="left" width="200" height="100" src="images/Airplane-Wallpaper-Desktop.jpg"> **[Flight Delay Analysis (2004)](https://github.com/radzmi/Flight-Delay-Analysis-2004)**
+
+This study aims to identify optimal flight times, analyze factors contributing to delays and cancellations, and evaluate flight experiences with the highest disruptions.
+
+
+
+#
+
+
+<img align="left" width="200" height="100" src="images/Airplane-Wallpaper-Desktop.jpg"> **[Iris Classification using Spark](https://github.com/radzmi/Classification-using-Iris-Dataset)**
+
+Classifiying Iris flower using Spark based on 5 attributes - Petal Length, Petal Width, Sepal Length, Sepal width and Class(Species).
+
 
 
 
