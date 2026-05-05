@@ -16,39 +16,12 @@ Motivated MSc. in Data Science & Analytics candidate seeking to contribute to a 
 
 ## 📂 Projects
 
-### Machine Learning
 
-**[Customer Churn Prediction](https://github.com/yourusername/churn-prediction)**  
-Built an end-to-end ML pipeline to predict customer churn using Logistic Regression, Random Forest, and XGBoost. Deployed as a Streamlit web app on Hugging Face Spaces.  
-`Python` `scikit-learn` `XGBoost` `Streamlit`
+<img align="left" width="250" height="150" src="images/imgi_127_amazon-logo.jpg"> **[Optimizing Amazon Efficiency Using Data Analysis](https://github.com/radzmi/Optimizing-Amazon-Efficiency-Using-Data-Analytics)**
 
-**[House Price Prediction — Malaysia](https://github.com/yourusername/malaysia-house-price)**  
-Predicted property prices using Malaysian housing data. Applied feature engineering, handled missing data, and compared multiple regression models. XGBoost achieved lowest RMSE.  
-`Python` `pandas` `XGBoost` `matplotlib`
-
----
-
-### Deep Learning
-
-**[Image Classification with CNN](https://github.com/yourusername/image-classifier)**  
-Built a Convolutional Neural Network to classify images into 10 categories using PyTorch. Achieved 91% test accuracy with data augmentation and transfer learning (ResNet18).  
-`Python` `PyTorch` `CNN` `Transfer Learning`
-
----
-
-### Exploratory Data Analysis
-
-**[Malaysia E-Commerce Sales Analysis](https://github.com/yourusername/ecommerce-eda)**  
-Analyzed 100K+ transactions to uncover customer behavior patterns, peak sales periods, and top product categories. Created an interactive dashboard using Plotly.  
-`Python` `pandas` `seaborn` `Plotly`
-
-
+The purpose of this analysis is to tackle 3 key components in Amazon that is Shipping Efficiency, Customer Retention and Loyalty, and Predictive Analytics.
 
 #
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
-
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
 
 ---
 
