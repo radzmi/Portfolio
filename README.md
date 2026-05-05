@@ -56,13 +56,11 @@ Analyzed 100K+ transactions to uncover customer behavior patterns, peak sales pe
 
 ## 📜 Certificates
 
-- [Machine Learning — Coursera (Andrew Ng)](https://coursera.org)
-- [Deep Learning Specialization — deeplearning.ai](https://deeplearning.ai)
-- [SQL — HackerRank](https://hackerrank.com)
-- [Alteryx — Designer Core Certificate](https://hackerrank.com)
-- [Alteryx — Designer Advanced Certificate](https://hackerrank.com)
-- [Dremio — Verified Data Analyst](https://hackerrank.com)
-- [Alteryx — Verified Lakehouse Associate](https://hackerrank.com)
+
+- [Alteryx — Designer Core Certificate](Alteryx_Designer_Core_Certification.pdf)
+- [Alteryx — Designer Advanced Certificate](Alteryx_Designer_Advanced_Certification.pdf)
+- [Dremio — Verified Data Analyst]((https://www.credly.com/badges/388decff-2e5d-49c0-b6fc-242f4b14a8ea/public_url))
+- [Dremio — Verified Lakehouse Associate]((https://www.credly.com/badges/1eaaa2db-d3d9-4fc2-b908-5755f654a8e3/public_url))
   
 ---
 
