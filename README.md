@@ -33,6 +33,15 @@ This study aims to identify optimal flight times, analyze factors contributing t
 
 #
 
+<img align="left" width="200" height="100" src="images/blank-clapperboard-near-big-popcorn-bucket.jpg"> **[Best Movie of All Time](https://github.com/radzmi/Highest-Rating-Movie-of-All-Time)**
+
+This study aims to analyze movie rating data from 943 users across 1,682 films to identify the highest-rated movies based on overall user ratings.
+
+
+#
+
+
+
 
 <img align="left" width="200" height="100" src="images/imgi_441_1000_F_437769413_FpvDqt0Zf6VNmEYaXtE4ZCf07JbGa9wg.jpg"> **[Iris Classification using Spark](https://github.com/radzmi/Classification-using-Iris-Dataset)**
 
@@ -40,12 +49,6 @@ Classifiying Iris flower using Spark based on 5 attributes - Petal Length, Petal
 
 
 
-#
-
-
-<img align="left" width="200" height="100" src="images/imgi_441_1000_F_437769413_FpvDqt0Zf6VNmEYaXtE4ZCf07JbGa9wg.jpg"> **[Best Movie of All Time](https://github.com/radzmi/Highest-Rating-Movie-of-All-Time)**
-
-Determining the best movie of all time based on ratings. 
 
 
 
