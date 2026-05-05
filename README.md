@@ -46,10 +46,8 @@ Analyzed 100K+ transactions to uncover customer behavior patterns, peak sales pe
 
 ## 🛠 Core Skills
 
-**Languages**: Python, SQL, R Language 
-**ML/DL**: scikit-learn, PyTorch, XGBoost, Keras  
-**Data**: pandas, NumPy, Matplotlib, Seaborn, Plotly  
-**Tools**: Git, Jupyter, Streamlit, VS Code  
+**Languages**: Python (Pandas, Numpy, Scikit-Learn, Tensorflow, Keras, Matplotlib, Plotly), R (Dplyr, Tidyr, Robotstxt, Ggplot2), SQL
+**Tools**: MySQL, PowerBI, Git, PySpark, MS Excel, Jupyter Notebook, Anaconda
 **Methods**: Supervised Learning, EDA, Feature Engineering, Model Evaluation
 
 ---
