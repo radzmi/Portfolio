@@ -10,7 +10,7 @@ A compilation of my Data Science and Machine Learning projects, built for learni
 
 ## 🎯 About Me
 
-Fresh graduate passionate about turning data into actionable insights. Focused on Machine Learning, Deep Learning, and Exploratory Data Analysis. Currently seeking my first Data Scientist role.
+Motivated MSc. in Data Science & Analytics candidate seeking to contribute to a dynamic and innovative data science team. Skilled in Alteryx, Python, R, and machine learning, with experience in data mining, modeling, and pipeline testing. Proficient in cloud computing and data workflow tools, with strong analytical and problem-solving abilities. Eager to drive datadriven decision- making and innovation in the industry.
 
 ---
 
@@ -46,7 +46,7 @@ Analyzed 100K+ transactions to uncover customer behavior patterns, peak sales pe
 
 ## 🛠 Core Skills
 
-**Languages**: Python, SQL  
+**Languages**: Python, SQL, R Language 
 **ML/DL**: scikit-learn, PyTorch, XGBoost, Keras  
 **Data**: pandas, NumPy, Matplotlib, Seaborn, Plotly  
 **Tools**: Git, Jupyter, Streamlit, VS Code  
@@ -59,10 +59,14 @@ Analyzed 100K+ transactions to uncover customer behavior patterns, peak sales pe
 - [Machine Learning — Coursera (Andrew Ng)](https://coursera.org)
 - [Deep Learning Specialization — deeplearning.ai](https://deeplearning.ai)
 - [SQL — HackerRank](https://hackerrank.com)
-
+- [Alteryx — Designer Core Certificate](https://hackerrank.com)
+- [Alteryx — Designer Advanced Certificate](https://hackerrank.com)
+- [Dremio — Verified Data Analyst](https://hackerrank.com)
+- [Alteryx — Verified Lakehouse Associate](https://hackerrank.com)
+  
 ---
 
 ## 📬 Contact Me
 
-Open to data science internship or junior roles. Feel free to reach out!  
-📧 youremail@gmail.com
+Open to data science junior roles. Feel free to reach out!  
+📧 radzmis@gmail.com
