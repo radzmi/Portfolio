@@ -59,8 +59,8 @@ Analyzed 100K+ transactions to uncover customer behavior patterns, peak sales pe
 
 - [Alteryx — Designer Core Certificate](Alteryx_Designer_Core_Certification.pdf)
 - [Alteryx — Designer Advanced Certificate](Alteryx_Designer_Advanced_Certification.pdf)
-- [Dremio — Verified Data Analyst]((https://www.credly.com/badges/388decff-2e5d-49c0-b6fc-242f4b14a8ea/public_url))
-- [Dremio — Verified Lakehouse Associate]((https://www.credly.com/badges/1eaaa2db-d3d9-4fc2-b908-5755f654a8e3/public_url))
+- [Dremio — Verified Data Analyst](https://www.credly.com/badges/388decff-2e5d-49c0-b6fc-242f4b14a8ea/public_url)
+- [Dremio — Verified Lakehouse Associate](https://www.credly.com/badges/1eaaa2db-d3d9-4fc2-b908-5755f654a8e3/public_url)
   
 ---
 
