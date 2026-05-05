@@ -23,6 +23,12 @@ The purpose of this analysis is to tackle 3 key components in Amazon that is Shi
 
 #
 
+<img align="left" width="250" height="150" src="images/imgi_127_amazon-logo.jpg"> **[Optimizing Amazon Efficiency Using Data Analysis](https://github.com/radzmi/Optimizing-Amazon-Efficiency-Using-Data-Analytics)**
+
+The purpose of this analysis is to tackle 3 key components in Amazon that is Shipping Efficiency, Customer Retention and Loyalty, and Predictive Analytics.
+
+
+
 ---
 
 ## 🛠 Core Skills
