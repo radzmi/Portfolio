@@ -3,7 +3,7 @@
 A compilation of my Data Science and Machine Learning projects, built for learning and to showcase my skills as an aspiring Data Scientist.
 
 - **Email**: radzmis@gmail.com  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/radzmi-shah/)  
+- **LinkedIn**: [linkedin.com/in/radzmi-shah](https://www.linkedin.com/in/radzmi-shah/)  
 - **Location**: Cyberjaya, Malaysia
 
 ---
