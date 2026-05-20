@@ -64,7 +64,7 @@ Modernizing data lakehouse technology using modern tools such as MinIO, Dremio a
 
 ## 🛠 Core Skills
 
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Tensorflow, Keras, Matplotlib, Plotly), R (Dplyr, Tidyr, Robotstxt, Ggplot2), SQL
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Tensorflow, Keras, Matplotlib, Plotly), R (Dplyr, Tidyr, Ggplot2), SQL
 - **Tools**: MySQL, PowerBI, Git, PySpark, MS Excel, Jupyter Notebook, Anaconda
 - **Methods**: Supervised Learning, EDA, Feature Engineering, Model Evaluation
 
