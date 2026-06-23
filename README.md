@@ -67,7 +67,7 @@ Modernizing data lakehouse technology using modern tools such as MinIO, Dremio a
 
 
 
-<img align="left" width="200" height="100" src="images/what-is-cybersecurity.jpg"> **[Modernizing Data Lakehouse](https://github.com/radzmi/Modernizing-Data-Lakehouse)**
+<img align="left" width="200" height="100" src="images/what-is-cybersecurity.jpg"> **[Phishing Simulation Dashboard](https://github.com/radzmi/Modernizing-Data-Lakehouse)**
 
 Modernizing data lakehouse technology using modern tools such as MinIO, Dremio and Alteryx. Using Machine Learning technique to optimize eligibility process
 
