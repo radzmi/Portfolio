@@ -69,7 +69,7 @@ Modernizing data lakehouse technology using modern tools such as MinIO, Dremio a
 
 <img align="left" width="200" height="100" src="images/what-is-cybersecurity.jpg"> **[Phishing Simulation Dashboard](https://github.com/radzmi/Phishing-Simulation-Dashboard/tree/main)**
 
-Modernizing data lakehouse technology using modern tools such as MinIO, Dremio and Alteryx. Using Machine Learning technique to optimize eligibility process
+Demonstrate how phishing simulation data can be transformed into a clear and business-friendly dashboard.
 
 
 ---
