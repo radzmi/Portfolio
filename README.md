@@ -90,7 +90,7 @@ Demonstrate how phishing simulation data can be transformed into a clear and bus
 - [Dremio — Verified Data Analyst](https://www.credly.com/badges/388decff-2e5d-49c0-b6fc-242f4b14a8ea/public_url)
 - [Dremio — Verified Lakehouse Associate](https://www.credly.com/badges/1eaaa2db-d3d9-4fc2-b908-5755f654a8e3/public_url)
 - [Anthropic — AI Capabilities and Limitations](https://verify.skilljar.com/c/cji2usnkq2h8)
-- [Anthropic — Claude 101](https://verify.skilljar.com/c/eorhobqkrho9)
+- [Anthropic — Claude 101](https://tinyurl.com/5ea346ey)
 - [Anthropic — Al Fluency Framework & Foundations](https://verify.skilljar.com/c/omb6rmj7vhfh)
 - [Anthropic — Claude code 101](https://verify.skilljar.com/c/pi8ix78xs8fj)
 ---
