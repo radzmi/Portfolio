@@ -10,7 +10,7 @@ A compilation of my Data Science and Machine Learning projects, built for learni
 
 ## 🎯 About Me
 
-Motivated MSc. in Data Science & Analytics candidate seeking to contribute to a dynamic and innovative data science team. Skilled in Alteryx, Python, R, and machine learning, with experience in data mining, modeling, and pipeline testing. Proficient in cloud computing and data workflow tools, with strong analytical and problem-solving abilities. Eager to drive datadriven decision- making and innovation in the industry.
+Motivated MSc. in Data Science & Analytics candidate seeking to contribute to a dynamic and innovative data science team. Skilled in Alteryx, Python, Power BI, and machine learning, with experience in data mining, modeling, and pipeline testing. Proficient in cloud computing and data workflow tools, with strong analytical and problem-solving abilities. Eager to drive datadriven decision- making and innovation in the industry.
 
 ---
 
@@ -77,8 +77,8 @@ Demonstrate how phishing simulation data can be transformed into a clear and bus
 ## 🛠 Core Skills
 
 - **Languages**: Python (Pandas, Numpy, Scikit-Learn, Tensorflow, Keras, Matplotlib, Plotly), R (Dplyr, Tidyr, Ggplot2), SQL
-- **Tools**: MySQL, PowerBI, Git, PySpark, MS Excel, Jupyter Notebook, Anaconda
-- **Methods**: Supervised Learning, EDA, Feature Engineering, Model Evaluation
+- **Tools**: MySQL, Power BI, Git, PySpark, MS Excel, Jupyter Notebook, Power Apps
+- **Methods**: Supervised Learning, Unsupervised Learning, EDA, Feature Engineering, Model Evaluation
 
 ---
 
@@ -89,7 +89,10 @@ Demonstrate how phishing simulation data can be transformed into a clear and bus
 - [Alteryx — Designer Advanced Certificate](https://www.credly.com/badges/b526c7f1-f82e-46b7-8a79-407532bd13e0/public_url)
 - [Dremio — Verified Data Analyst](https://www.credly.com/badges/388decff-2e5d-49c0-b6fc-242f4b14a8ea/public_url)
 - [Dremio — Verified Lakehouse Associate](https://www.credly.com/badges/1eaaa2db-d3d9-4fc2-b908-5755f654a8e3/public_url)
-  
+- [Anthropic — AI Capabilities and Limitations](https://verify.skilljar.com/c/cji2usnkq2h8)
+- [Anthropic — Claude 101](https://verify.skilljar.com/c/eorhobqkrho9)
+- [Anthropic — Al Fluency Framework & Foundations](https://verify.skilljar.com/c/omb6rmj7vhfh)
+- [Anthropic — Claude code 101](https://verify.skilljar.com/c/pi8ix78xs8fj)
 ---
 
 ## 📬 Contact Me
