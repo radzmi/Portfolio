@@ -72,6 +72,13 @@ Modernizing data lakehouse technology using modern tools such as MinIO, Dremio a
 Demonstrate how phishing simulation data can be transformed into a clear and business-friendly dashboard.
 
 
+
+
+#
+
+
+
+
 ---
 
 ## 🛠 Core Skills
