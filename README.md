@@ -54,7 +54,7 @@ Classifiying Iris flower using Spark based on 5 attributes - Petal Length, Petal
 
 
 
-<img align="left" width="200" height="100" src="images/cloud-infrastructure-benefit.jpeg"> **[Modernizing Data Lakehouse](https://github.com/radzmi/Modernizing-Data-Lakehouse)**
+<img align="left" width="210" height="150" src="images/cloud-infrastructure-benefit.jpeg"> **[Modernizing Data Lakehouse](https://github.com/radzmi/Modernizing-Data-Lakehouse)**
 
 Modernizing data lakehouse technology using modern tools such as MinIO, Dremio and Alteryx. Using Machine Learning technique to optimize eligibility process
 
@@ -67,7 +67,7 @@ Modernizing data lakehouse technology using modern tools such as MinIO, Dremio a
 
 
 
-<img align="left" width="200" height="100" src="images/what-is-cybersecurity.jpg"> **[Phishing Simulation Dashboard](https://github.com/radzmi/Phishing-Simulation-Dashboard/tree/main)**
+<img align="left" width="200" height="90" src="images/what-is-cybersecurity.jpg"> **[Phishing Simulation Dashboard](https://github.com/radzmi/Phishing-Simulation-Dashboard/tree/main)**
 
 Demonstrate how phishing simulation data can be transformed into a clear and business-friendly dashboard.
 
@@ -81,7 +81,7 @@ Demonstrate how phishing simulation data can be transformed into a clear and bus
 
 
 
-<img align="left" width="200" height="100" src="images/it-service.png"> **[IT Service Management Dashboard](https://github.com/radzmi/IT_ServiceOperations)**
+<img align="left" width="200" height="90" src="images/it-service.png"> **[IT Service Management Dashboard](https://github.com/radzmi/IT_ServiceOperations)**
 
 An interactive dashboard for tracking IT service performance and support operations.
 
