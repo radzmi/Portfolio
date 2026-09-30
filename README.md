@@ -121,6 +121,16 @@ An interactive dashboard for tracking IT service performance and support operati
 
 - ### Statistics and Machine Learning
      - [Iris Classification using Spark](https://github.com/radzmi/Classification-using-Iris-Dataset) : Classifiying Iris flower using Spark based on 5 attributes - Petal Length, Petal Width, Sepal Length, Sepal width and Class(Species).
+     - [Optimizing Amazon Efficiency Using Data Analysis](https://github.com/radzmi/Optimizing-Amazon-Efficiency-Using-Data-Analytics) : The purpose of this analysis is to tackle 3 key components in Amazon that is Shipping Efficiency, Customer Retention and Loyalty, and Predictive Analytics.
+     - [Flight Delay Analysis (2004)](https://github.com/radzmi/Flight-Delay-Analysis-2004) : This study aims to identify optimal flight times, analyze factors contributing to delays and cancellations, and evaluate flight experiences with the highest disruptions.
+
+
+
+
+
+
+
+
 
 
 ## 📬 Contact Me
