@@ -97,10 +97,10 @@ An interactive dashboard for tracking IT service performance and support operati
 
 ## 🛠 Core Skills
 
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Tensorflow, Keras, Matplotlib, Plotly), R (Dplyr, Tidyr, Ggplot2), SQL
-- **Tools**: MySQL, Power BI, Git, PySpark, Docker, Jupyter Notebook, Power Apps
-- **Methods**: Supervised Learning, Unsupervised Learning, EDA, Feature Engineering, Model Evaluation
-
+- **Languages**: Python, R, SQL
+- **Libraries**: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, PyTorch, TensorFlow/Keras, NLTK 
+- **Tools**: MySQL, Power BI, Git, Docker, Jupyter Notebook, Power Apps
+- **AI & Machine Learning**: LLMs, Retrieval-Augmented Generation (RAG), embeddings, vector search, prompt engineering, NLP, deep learning, model evaluation
 ---
 
 ## 📜 Certificates
@@ -117,6 +117,10 @@ An interactive dashboard for tracking IT service performance and support operati
 - [Anthropic — Claude code 101](https://verify.skilljar.com/c/pi8ix78xs8fj)
 
 
+## 📂 Micro Projects
+
+- ### Statistics and Machine Learning
+     - [Iris Classification using Spark](https://github.com/radzmi/Classification-using-Iris-Dataset) : Classifiying Iris flower using Spark based on 5 attributes - Petal Length, Petal Width, Sepal Length, Sepal width and Class(Species).
 
 
 ## 📬 Contact Me
