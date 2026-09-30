@@ -98,14 +98,15 @@ An interactive dashboard for tracking IT service performance and support operati
 ## 🛠 Core Skills
 
 - **Languages**: Python (Pandas, Numpy, Scikit-Learn, Tensorflow, Keras, Matplotlib, Plotly), R (Dplyr, Tidyr, Ggplot2), SQL
-- **Tools**: MySQL, Power BI, Git, PySpark, MS Excel, Jupyter Notebook, Power Apps
+- **Tools**: MySQL, Power BI, Git, PySpark, Docker, Jupyter Notebook, Power Apps
 - **Methods**: Supervised Learning, Unsupervised Learning, EDA, Feature Engineering, Model Evaluation
 
 ---
 
 ## 📜 Certificates
 
-
+- [Google - AI Professional Certificate](https://www.credly.com/badges/eff1f709-34f4-438d-8ffe-13f8631b24a8/public_url)
+- [Google - Cybersecurity Professional Certificate](https://www.credly.com/badges/c602e526-dafc-441d-9150-dada5233f051/public_url)
 - [Alteryx — Designer Core Certificate](https://www.credly.com/badges/2014c575-880e-4c49-bc12-6588d6f1c07f/public_url)
 - [Alteryx — Designer Advanced Certificate](https://www.credly.com/badges/b526c7f1-f82e-46b7-8a79-407532bd13e0/public_url)
 - [Dremio — Verified Data Analyst](https://www.credly.com/badges/388decff-2e5d-49c0-b6fc-242f4b14a8ea/public_url)
@@ -114,8 +115,7 @@ An interactive dashboard for tracking IT service performance and support operati
 - [Anthropic — Claude 101](https://verify.skilljar.com/c/eorhobqkrho9)
 - [Anthropic — AI Fluency Framework & Foundations](https://verify.skilljar.com/c/omb6rmj7vhfh)
 - [Anthropic — Claude code 101](https://verify.skilljar.com/c/pi8ix78xs8fj)
-- [Google - AI Professional Certificate](https://www.credly.com/badges/eff1f709-34f4-438d-8ffe-13f8631b24a8/public_url)
-- [Google - Cybersecurity Professional Certificate](https://www.credly.com/badges/c602e526-dafc-441d-9150-dada5233f051/public_url)
+
 
 
 
