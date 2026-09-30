@@ -29,6 +29,18 @@ Modernizing data lakehouse technology using modern tools such as MinIO, Dremio a
 
 
 
+#
+
+
+
+
+<img align="left" width="210" height="150" src="images/cloud-infrastructure-benefit.jpeg"> **[Modernizing Data Lakehouse](https://github.com/radzmi/Modernizing-Data-Lakehouse)**
+
+Modernizing data lakehouse technology using modern tools such as MinIO, Dremio and Alteryx. Using Machine Learning technique to optimize eligibility process
+
+
+
+
 
 #
 
