@@ -22,9 +22,9 @@ Motivated MSc. in Data Science & Analytics candidate seeking to contribute to a 
 
 
 
-<img align="left" width="210" height="150" src="images/cloud-infrastructure-benefit.jpeg"> **[Modernizing Data Lakehouse](https://github.com/radzmi/Modernizing-Data-Lakehouse)**
+<img align="left" width="210" height="150" src="images/AI_Image.jpeg"> **[Automated Social Media Content Engine](https://github.com/radzmi/Automated_Social_Media_Content_Engine)**
 
-Modernizing data lakehouse technology using modern tools such as MinIO, Dremio and Alteryx. Using Machine Learning technique to optimize eligibility process
+An automated end-to-end AI workflow for generating, formatting, and scheduling social media content
 
 
 
