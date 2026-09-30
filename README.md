@@ -10,7 +10,7 @@ A compilation of my Data Science and Machine Learning projects, built for learni
 
 ## 🎯 About Me
 
-Motivated MSc. in Data Science & Analytics candidate seeking to contribute to a dynamic and innovative data science team. Skilled in Alteryx, Python, Power BI, and machine learning, with experience in data mining, modeling, and pipeline testing. Proficient in cloud computing and data workflow tools, with strong analytical and problem-solving abilities. Eager to drive datadriven decision- making and innovation in the industry.
+MSc Data Science & Analytics graduate with experience developing data platforms and enterprise AI solutions, including an on-premise LLM sandbox and a Retrieval-Augmented Generation (RAG) pipeline. Brings practical experience in data pipelines, data quality, machine-learning workflows, and secure AI experimentation.
 
 ---
 
@@ -22,9 +22,12 @@ Motivated MSc. in Data Science & Analytics candidate seeking to contribute to a 
 
 
 
-<img align="left" width="210" height="150" src="images/AI_Image.jpeg"> **[Automated Social Media Content Engine](https://github.com/radzmi/Automated_Social_Media_Content_Engine)**
+<img align="left" width="190" height="90" src="images/AI_image.jpg"> **[Automated Social Media Content Engine](https://github.com/radzmi/Automated_Social_Media_Content_Engine)**
 
 An automated end-to-end AI workflow for generating, formatting, and scheduling social media content
+
+
+
 
 
 
@@ -34,7 +37,7 @@ An automated end-to-end AI workflow for generating, formatting, and scheduling s
 
 
 
-<img align="left" width="210" height="150" src="images/cloud-infrastructure-benefit.jpeg"> **[Modernizing Data Lakehouse](https://github.com/radzmi/Modernizing-Data-Lakehouse)**
+<img align="left" width="200" height="170" src="images/cloud-infrastructure-benefit.jpeg"> **[Modernizing Data Lakehouse](https://github.com/radzmi/Modernizing-Data-Lakehouse)**
 
 Modernizing data lakehouse technology using modern tools such as MinIO, Dremio and Alteryx. Using Machine Learning technique to optimize eligibility process
 
