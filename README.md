@@ -115,6 +115,9 @@ An interactive dashboard for tracking IT service performance and support operati
 - [Anthropic — AI Fluency Framework & Foundations](https://verify.skilljar.com/c/omb6rmj7vhfh)
 - [Anthropic — Claude code 101](https://verify.skilljar.com/c/pi8ix78xs8fj)
 - [Google - AI Professional Certificate](https://www.credly.com/badges/eff1f709-34f4-438d-8ffe-13f8631b24a8/public_url)
+- [Google - Cybersecurity Professional Certificate]((https://www.credly.com/badges/c602e526-dafc-441d-9150-dada5233f051/public_url))
+
+
 
 ## 📬 Contact Me
 
